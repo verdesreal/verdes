@@ -1,5 +1,5 @@
 # yo, im cromhe
-*** im was born at 23/10/2006**
+***im was born at 23/10/2006***
 
 > im from vn and im make some fun code !
 
@@ -15,6 +15,8 @@
 
  ### contact
  nghiengamesimulator@gmail.com
+ > [!NOTE]
+> im not gay
 <!--
 **nghiengamesimulator-coder/nghiengamesimulator-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
