@@ -1,6 +1,7 @@
 # yo, im cromhe
->>> im was born at 23/10/2006
- im from vn and im make some fun code !
+*** im was born at 23/10/2006**
+
+> im from vn and im make some fun code !
 
 ### stack
 ![Luau](https://img.shields.io/badge/Luau-00a2ff?style=for-the-badge&logo=lua&logoColor=white)
