@@ -28,7 +28,7 @@
 ### grinding rn
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,cpp,go,linux" />
+    <img src="https://skillicons.dev/icons?i=react,ts,cpp,googlecloud,linux" />
   </a>
 </div>
 
