@@ -21,7 +21,7 @@
 ### main stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,python,blender,html,vscode,github,ts,robloxstudio,mongodb,vim,sublime,cursor,git,mysql,redis,c++,c,docker,bash,aws,ps,unity" />
+    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,python,blender,html,vscode,github,ts,robloxstudio,mongodb,vim,sublime,cursor,git,mysql,redis,docker,bash,aws,ps,unity" />
   </a>
 </div>
 
